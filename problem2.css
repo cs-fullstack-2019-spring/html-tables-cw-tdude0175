@@ -1,0 +1,5 @@
+table,td,tr,th
+{
+    border: 1px solid black;
+}
+/*border to make it more readable*/
